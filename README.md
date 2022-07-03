@@ -1,3 +1,3 @@
 # Soccer-Master
 
-<img src="https://i.imgur.com/zhf0DnW.gif"/>
+![](https://github.com/utkucelebii/Soccer-Master/blob/main/soccer-master.gif?raw=true)
