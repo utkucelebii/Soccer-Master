@@ -1,4 +1,4 @@
 # Soccer-Master
 
 ###Screenshot
-![Imgur Image](https://i.imgur.com/zhf0DnW.gif)
+!(image)[https://i.imgur.com/zhf0DnW.gif]
